@@ -1,5 +1,5 @@
 # XBOX-USB-HUB
-Collection of information and schematics of the XBOX Rev 1.0 USB PCB
+Collection of information and homemade schematics of the XBOX Rev 1.0 USB PCB
 
 ![Schematics](imgs/schematics.png)
 
