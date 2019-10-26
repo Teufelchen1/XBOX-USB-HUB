@@ -65,10 +65,10 @@ Collection of information and homemade schematics of the XBOX Rev 1.0 USB PCB
 |L10|||Missing|Common mode chokes|
 |L4||L4|intended|In series 5V|
 |L5||L5|intended|In series 5V|
-|P1||P1||Controler 3 & 4|
-|P3||P3||Host USB, Yellow 1 & 2|
-|P2||P2||Controler 1 & 2|
-|P4||P4||Yellow 3 & 4|
+|P1|H JST 12|P1|Ok|Controler 3 & 4|
+|P3|2x6 male|P3|Ok|Host USB, Yellow 1 & 2|
+|P2|H JST 12|P2|Ok|Controler 1 & 2|
+|P4|2x6 male|P4|Ok|Yellow 3 & 4|
 |Y1|6MHz|Y1|Ok|crystal|
 |U2|TUSB2046B|U2|Ok|Main IC|
 
